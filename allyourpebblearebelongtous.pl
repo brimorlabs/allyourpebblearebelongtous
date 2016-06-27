@@ -406,7 +406,7 @@ sub usage() #This is where the usage statement goes. Hooray usage!
 		s => "string",
 	);
 	print "\n";
-	print "This script parse data from the database associated with a\nPebble Time smart watch.\n";
+	print "This script will parse data from the database associated with a\nPebble Time smart watch.\n";
 	print "As of June 23, 2016, only iOS and Android databases are supported.\n";
 	print "\nUsage example:\n\n";
 	print "allyourpebblearebelongtous.pl -file \"pebble\" -ofolder \"ParsedResults\"\n\n";	
